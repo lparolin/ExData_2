@@ -1,4 +1,4 @@
 # ExData_2
-#
-# Repository for the Exploratory data analysis project 2.
-#
+
+ Repository for the Exploratory data analysis project 2.
+
